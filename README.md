@@ -31,8 +31,9 @@
 
 
 ### 🤝 Let's Connect:
-- ![LinkedIn](https://www.bing.com/images/search?view=detailV2&ccid=ozDiSGJl&id=4868E0C94ED5496426AC1AD8D3BEFA6F10982768&thid=OIP.ozDiSGJlUqI6815cRlJiNAHaHa&mediaurl=https%3a%2f%2fpngimg.com%2fuploads%2flinkedIn%2flinkedIn_PNG8.png&exph=2000&expw=2000&q=linkedin&simid=608043829545822865&FORM=IRPRST&ck=4E4AD72082C5FDF9D4B218F084371D57&selectedIndex=1&itb=1): <www.linkedin.com/in/darshiv>
-- 
+- LinkedIn: www.linkedin.com/in/darshiv
+- Email: darsh2652@gmail.com
+
 <!---
 darshiv/darshiv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
