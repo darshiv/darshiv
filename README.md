@@ -12,22 +12,22 @@
  ### 📊 Featured Projects:
 - #### 	Advanced MS Excel
 - 📈📉 Created a dashboard using real time hypermarket data by doing a order level, customer level, delivery level and completion rate analysis using pivots and charts with 100% accuracy 📈📉
--https://github.com/darshiv/Advanced-MS-Excel-Freshco-Hypermarket-Capstone.git
+- https://github.com/darshiv/Capstone-project-for-Advanced-MS-Excel.git
 
 
 - ####  SQL (Structured Query Language)
 - 🔢🔡 Analyzed real time Airline database case study and solved queries using Joins, Window function and Case statements with 100% accuracy 🔢🔡
-- https://github.com/darshiv/SQL-Capstone-Project-Airline-db.git
+- https://github.com/darshiv/Capstone-project-for-SQL.git
 
 
 - ####  Structured Problem Solving
 - 📊📊 Generated insights on real time data of one of the largest food eCommerce company in the country analyzing its performance for the year 2019 using funnel analysis with 100% accuracy 📊📊
-- https://github.com/darshiv/Structured-Problem-Solving-Swiggy-Business-Case-Funnel-Analysis.git
+- https://github.com/darshiv/Capstone-project-for-Statistics-Funnel-Analysis-.git
 
 
 - ####  Data Visualization in Power BI
 - 🧮🌆 Designed a PowerBi dashboard to address key business analytics using real time data for a leading department store in the eCommerce marketplace in Portugal with 100% accuracy 🧮🌆
-- https://github.com/darshiv/Data-Visualization-in-Power-BI-ShopNest-PowerBI-Capstone-Project.git
+- https://github.com/darshiv/Capstone-project-for-PowerBI.git
 
 
 ### 🤝 Let's Connect:
